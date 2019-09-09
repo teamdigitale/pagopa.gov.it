@@ -65,5 +65,10 @@ newsletter:
     placeholder: "Inserisci la tua email"
     submit_button: "Conferma iscrizione"
     disclaimer: "<a href=\"https://teamdigitale.governo.it/it/privacy-newsletter-pagoPA.htm\">Privacy policy</a>"
-
+CollapseBtnSee:
+  en: "See all"
+  it: "Mostra tutto"
+CollapseBtnHide:
+  en: "Hide"
+  it: "Nascondi"
 
