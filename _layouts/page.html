@@ -6,7 +6,17 @@ layout: default
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
       {% assign breadcrumbs = '' | split: '' %}
+      {% comment %}
+      `child_of_ref` can sometimes be a list to allow the page to appear on
+      different menus. In that case, its breadcrumb always refers to its first
+      element in the list.
+      {% endcomment %}
+      {% if page.child_of_ref.first %}
+      {% assign parent = page.child_of_ref.first %}
+      {% else %}
       {% assign parent = page.child_of_ref %}
+      {% endif %}
+
       {% for counter in (0..9) %}
       {% if parent == nil %}
       {% break %}
@@ -15,6 +25,7 @@ layout: default
       {% assign breadcrumbs = breadcrumbs | concat: parent_page %}
       {% assign parent = parent_page[0].child_of_ref %}
       {% endfor %}
+
       {% assign breadcrumbs = breadcrumbs | reverse %}
 
       <li class="breadcrumb-item"><a href="/">Home</a><span class="separator">&gt;</span></li>
@@ -33,7 +44,7 @@ layout: default
 
 <article class="container my-4">
   <div class="row">
-    <div class="col-12 {% if page.wide == nil %}col-lg-8{% endif %}">
+    <div class="col-12 {% if page.layout_wide == nil %}col-lg-8{% endif %}">
       <h1>{{ page.title }}</h1>
       <p class="lead">{{ page.description }}</p>
 
@@ -41,7 +52,7 @@ layout: default
         {{ content }}
       </div>
     </div>
-    {% if page.wide == nil %}
+    {% if page.layout_wide == nil %}
     <div class="col-12 col-lg-4">
       <nav class="navbar it-navscroll-wrapper navbar-expand-lg it-bottom-navscroll it-left-side affix-top">
         <button class="custom-navbar-toggler" type="button" aria-controls="navbarNav" aria-expanded="false"
