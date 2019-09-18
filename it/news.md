@@ -4,6 +4,7 @@ title: News
 description: 
 lang: it
 ref: news
+child_of_ref: cos-e-pago-pa
 order: 6
 ---
 

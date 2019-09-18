@@ -5,21 +5,17 @@ description: Lorem Ipsum TODO
 lang: it
 ref: societa-trasparente
 order: 26
-child_of_ref: cos-e-pago-pa
+child_of_ref: pagopa-spa
 redirect_from:
   - /societa-trasparente
   - /it/societa-trasparente
 ---
-
-<!-- TODO VERIFICARE QUESTO TESTO -->
 
 Questa sezione contiene documenti, informazioni e dati organizzati secondo lo schema indicato da:
 
 - [D.Lgs. n. 33/2013](http://www.gazzettaufficiale.it/eli/id/2013/04/05/13G00076/sg) "Riordino della disciplina riguardante gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni", come modificato dal D.Lgs. n. 97/2016;
 
 - [Determinazione n. 1134 dell'Autorità nazionale Anticorruzione](http://www.anticorruzione.it/portal/public/classic/AttivitaAutorita/AttiDellAutorita/_Atto?ca=7019) "Nuove linee guida per l'attuazione della normativa in materia di prevenzione della corruzione e trasparenza da parte delle società e degli enti di diritto privato controllati e partecipati dalle pubbliche amministrazioni e degli enti pubblici economici" dell'8 novembre 2017
- 
-Responsabile della prevenzione della corruzione e della trasparenza: Maurizio Olmeda.
 
 - [Disposizioni generali](disposizioni-generali)
 - [Organizzazione](organizzazione)
