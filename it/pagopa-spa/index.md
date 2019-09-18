@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pagoPA S.p.A.
+title: PagoPA S.p.A.
 description: Lorem Ipsum TODO
 lang: it
 ref: pagopa-spa

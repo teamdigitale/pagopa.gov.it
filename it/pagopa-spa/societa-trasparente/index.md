@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Società trasparente
-description: Lorem Ipsum TODO
+description: 
 lang: it
 ref: societa-trasparente
 order: 26
