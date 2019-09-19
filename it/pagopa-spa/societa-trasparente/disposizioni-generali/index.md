@@ -9,4 +9,4 @@ child_of_ref: societa-trasparente
 wide: true
 ---
 
-* [Atti generali](atti-generali)
+[Atti generali](atti-generali)
