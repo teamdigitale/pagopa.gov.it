@@ -19,22 +19,22 @@ description:
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "AGID + Presidenza del Consiglio dei Ministri + Team Digitale"
+  en: "PagoPA S.p.A."
+  it: "PagoPA S.p.A."
 
 ## Social
 social-links:
   en:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/ITdigitalteam"
+      url: "https://twitter.com/pagopa"
     medium:
       name: "medium"
       url: "https://medium.com/team-per-la-trasformazione-digitale/pagopa-piattaforma-unica-pagamenti-pa/home"
   it:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/teamdigitaleIT"
+      url: "https://twitter.com/pagopa"
     medium:
       name: "medium"
       url: "https://medium.com/team-per-la-trasformazione-digitale/pagopa-piattaforma-unica-pagamenti-pa/home"
