@@ -8,6 +8,6 @@ order: 2
 child_of_ref: organizzazione
 ---
 
-### Curriculum Vitae
+### Amministratori
 
-* [Giuseppe Virgone - Amministratore unico (PDF)](Giuseppe_Virgone_CV.pdf)
+* [Amministratore unico (PDF)](Amministratore_unico.pdf)
