@@ -9,7 +9,7 @@ order: 21
 ---
 
 <blockquote class="blockquote small">
-PagoPA S.p.A è una società pubblica, vigilata dalla Presidenza del Consiglio dei Ministri, che ha come obiettivo la diffusione di servizi pubblici digitali che vogliamo siano sempre più facili da usare e vicini ai bisogni dei cittadini.
+PagoPA S.p.A è una società pubblica, vigilata dalla Presidenza del Consiglio dei Ministri o dal Ministero delegato, che ha come obiettivo la diffusione di servizi pubblici digitali che vogliamo siano sempre più facili da usare e vicini ai bisogni dei cittadini.
 Siamo una società di Stato, ma abbiamo un animo da startup: la nostra missione è sviluppare, migliorare ed evolvere velocemente i servizi digitali, per permettere ai cittadini di accedere e utilizzare in modo semplice i servizi pubblici, a partire dai pagamenti digitali in favore delle Pubbliche Amministrazioni. 
 
 Vogliamo agire in discontinuità con i tradizionali modi di fare innovazione nello Stato: essere giovani, agili, veloci e, perché no, anche coraggiosi. 

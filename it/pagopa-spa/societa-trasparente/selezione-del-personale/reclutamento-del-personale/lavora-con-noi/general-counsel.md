@@ -13,12 +13,12 @@ is_new: true
 
 ### Descrizione e responsabilità
 
-PagoPA S.p.A. è alla ricerca di un Direttore Affari Legali, il quale, riportando direttamente all’Amministratore Unico, è responsabile di gestire, impostare, supervisionare e coordinare ogni adempimento e iniziativa per assicurare la corretta applicazione delle decisioni aziendali sotto il profilo legale.
+PagoPA S.p.A. è alla ricerca di un Direttore Affari Legali, il quale sarà responsabile di gestire, impostare, supervisionare e coordinare ogni adempimento e iniziativa per assicurare la corretta applicazione delle decisioni aziendali sotto il profilo legale.
 
 Le sue principali responsabilità sono:
 * fornire assistenza legale a tutte le aree aziendali in fase preventiva e operativa;
 * gestire le attività del dipartimento legale coordinando, supervisionando e gestendo le relative risorse; 
-* assistere in coordinamento con il responsabile Affari Societari, l’amministratore nell’elaborazione delle politiche aziendali in materia societaria, contrattuale e legale al fine di assicurare la conformità degli atti e dei contratti della società con la normativa vigente; 
+* assistere in coordinamento con il Direttore Affari Societari, l’amministratore nell’elaborazione delle politiche aziendali in materia societaria, contrattuale e legale al fine di assicurare la conformità degli atti e dei contratti della società con la normativa vigente; 
 * assistere l’amministratore unico in riunioni e negoziati strategici; 
 * attività di coordinamento e gestione delle funzioni di Compliance aziendale, inclusa la GDPR compliance e, in coordinamento con il CTO, la cybersecurity;
 * coordinare e supervisionare i consulenti e gli studi legali esterni; 
@@ -28,7 +28,7 @@ Le sue principali responsabilità sono:
 * curare la redazione di atti giuridici, contratti e procedure interne per gli adempimenti legali e regolamentari e controllare l’esatta osservanza. 
 
 
-### Qualifiche chiave
+### Qualifiche essenziali
 
 * +7 anni di esperienza in studi legali internazionali e/o esperienza in azienda in posizioni simili;
 * +7 anni abilitazione all’esercizio della professione legale in Italia;

@@ -1,5 +1,5 @@
 ---
-title: Head of Corporate Affairs and Governance - Direttore Affari societari
+title: Head of Corporate Affairs and Governance - Direttore Affari Societari e Governante
 description:
 lang: it
 layout: job
@@ -13,7 +13,7 @@ is_new: true
 
 ### Descrizione e responsabilità
 
-PagoPA S.p.A. è alla ricerca di Responsabile Affari Societari e Corporate Governance, il quale è responsabile del coordinamento e supervisione dello svolgimento di tutti gli adempimenti societari, gestione delle operazioni societarie di natura straordinaria, inoltre, responsabile della redazione e della negoziazione di contratti nazionali ed internazionali.
+PagoPA S.p.A. è alla ricerca di Direttore Affari Societari e Corporate Governance, il quale sarà responsabile del coordinamento e supervisione dello svolgimento di tutti gli adempimenti societari, gestione delle operazioni societarie di natura straordinaria, oltre che responsabile della redazione e della negoziazione di contratti e atti di natura societaria.
 
 Le sue principali responsabilità sono:
 
@@ -22,19 +22,19 @@ Le sue principali responsabilità sono:
 * svolgimento degli adempimenti pre e post riunioni dell’Organo Amministrativo; 
 * attività di supporto ad eventuali Comitati;
 * supporto alle attività dell’Organo di Vigilanza e attività di coordinamento con lo stesso; 
-* attività di supporto al Collegio Sindacale e alla Società di Revisione, per le attività inerenti il Diritto Societario; 
+* attività di supporto al Collegio Sindacale e alla Società di Revisione, per le attività inerenti il diritto societario; 
 * attività di coordinamento, predisposizione e il rilascio delle procure aziendali; 
 * attività di coordinamento e gestione delle funzioni di Procurement aziendale;
 * attività di coordinamento con la Funzione Amministrazione, Finanza e Controllo, per le informazioni finanziarie obbligatorie; 
 * attuazione della normativa in materia societaria e dei principi di governance conformi alla best practice internazionale; 
 * collaborazione con e supporto al Responsabile Affari Legali in tutte le attività legali che si dovessero rendere necessarie;
-* coordinamento dei rapporti con autorità rilevanti per le attività societarie, come Banca d’Italia e Ministero delle finanze e dell’economia;
+* coordinamento dei rapporti con autorità rilevanti per le attività societarie, come Banca d’Italia e Ministero delle finanze e dell’economia, nonché la Presidenza del Consiglio dei Ministri o il Ministero delegato;
 * predisposizione di report societari;
 * predisposizione e negoziazione di contratti e/o atti in ambito societario;
 * studio preliminare di fattibilità delle operazioni societarie (operazioni sul capitale sociale, fusioni, costituzioni di società);
 * monitoraggio dell'evoluzione normativa in materia di diritto societario.
 
-### Qualifiche chiave
+### Qualifiche essenziali
 
 * +7 anni di esperienza in studi legali internazionali e/o esperienza in azienda in posizioni simili;
 * Ottima conoscenza delle tematiche di diritto societario e corporate governance
