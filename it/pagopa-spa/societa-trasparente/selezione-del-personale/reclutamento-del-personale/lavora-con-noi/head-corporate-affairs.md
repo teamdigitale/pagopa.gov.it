@@ -1,5 +1,5 @@
 ---
-title: Head of Corporate Affairs and Governance - Affari societari
+title: Head of Corporate Affairs and Governance - Direttore Affari societari
 description:
 lang: it
 layout: job
