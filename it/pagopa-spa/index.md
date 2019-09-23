@@ -13,11 +13,9 @@ La mission della società è *la capillare diffusione del sistema di pagamenti e
 
 ### Come nasce PagoPA S.p.A.
 
-Passando da circa 900 mila transazioni l’anno nel 2016 a oltre *14 milioni di transazioni e quasi 2 miliardi di euro gestiti nel 2018*, [pagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm) è una delle piattaforme abilitanti in maggiore crescita in Italia, nonché una delle colonne portanti sulle quali si basa la trasformazione digitale del Paese.
+[pagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm) è una delle piattaforme abilitanti in maggiore crescita in Italia, nonché una delle colonne portanti sulle quali si basa la trasformazione digitale del Paese.
 
-Nell’arco di tre anni, con la spinta del [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/) a supporto dell’[Agenzia per l’Italia digitale](https://www.agid.gov.it/) (Agid), la piattaforma unica per i pagamenti digitali ha continuato a *crescere con un ritmo esponenziale*. Un trend positivo, nettamente accelerato nelle prime settimane del 2019, che già oggi produce forti benefici sia per i cittadini che per le Pubbliche Amministrazioni, legati alla semplicità e sicurezza dei pagamenti e a una migliore gestione degli incassi.
-
-Nell’ultimo trimestre del 2016 (primo anno in cui la piattaforma ha cominciato realmente a funzionare) su pagoPA passavano *poco più di 137 mila transazioni* verso la Pubblica Amministrazione. Un anno dopo, nell’ultimo trimestre del 2017, il valore era già *aumentato di dieci volte, raggiungendo oltre 1 milione 468 mila transazioni*. L’ultimo trimestre del 2018 ha registrato *4 milioni e 682 mila transazioni*, ma la vera accelerazione è arrivata nel 2019: *solo nei primi quaranta giorni sono già state effettuate 7 milioni e 425 mila transazioni* e prevediamo di chiudere i primi due mesi dell’anno con circa *10 milioni di transazioni*.
+Nell’arco di tre anni, con la spinta del [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/) a supporto dell’[Agenzia per l’Italia digitale](https://www.agid.gov.it/) (Agid), la piattaforma unica per i pagamenti digitali ha continuato a *crescere con un ritmo esponenziale*, che già oggi produce forti benefici sia per i cittadini che per le Pubbliche Amministrazioni, legati alla semplicità e sicurezza dei pagamenti e a una migliore gestione degli incassi.
 
 A fronte della rapida crescita di pagoPA, e delle sfide rimaste da affrontare, il Governo ha deciso di *potenziare il suo indirizzo*, facendo un ulteriore passo in avanti. Il 12 febbraio è stata [pubblicata in Gazzetta Ufficiale](http://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2019-02-12&atto.codiceRedazionale=19A00934&elenco30giorni=true) la conversione in legge del Decreto Legge “Semplificazioni” (numero 135 del 14 dicembre del 2018). L’articolo 8 della norma *riconosce l’importanza strategica di pagoPA come asset fondamentale per la digitalizzazione del Paese*, in quanto:
 
@@ -56,16 +54,17 @@ Questa è la filosofia su cui vogliamo basare il lavoro che ci aspetta nei pross
 
 ### Visione
 
-> PagoPA S.p.A è una società pubblica, vigilata dalla Presidenza del Consiglio dei Ministri, che ha come obiettivo la diffusione di servizi pubblici digitali che vogliamo siano sempre più facili da usare e vicini ai bisogni dei cittadini.
-> Siamo una società di Stato, ma abbiamo un animo da startup: la nostra missione è sviluppare, migliorare ed evolvere velocemente i servizi digitali, per permettere ai cittadini di accedere e utilizzare in modo semplice i servizi pubblici, a partire dai pagamenti digitali in favore delle Pubbliche Amministrazioni. 
-> 
-> Vogliamo agire in discontinuità con i tradizionali modi di fare innovazione nello Stato: essere giovani, agili, veloci e, perché no, anche coraggiosi. 
-> Vogliamo proporre nuovi metodi di lavoro, nuove tecnologie, nuovi prodotti, partendo però sempre dai bisogni degli utenti e dalle opportunità del mercato.
-> Vogliamo aprirci ai migliori professionisti del settore pubblico e di quello privato, imparare dalle imprese innovative, accogliere gli esempi pubblici di innovazione che troviamo su tutto il territorio nazionale, tenendo sempre un occhio rivolto anche al resto del mondo.
-> Vogliamo far crescere il paese e la sua economia, aiutando la governance del digitale e non solo, mettendo i dati e il miglioramento continuo al centro di ogni processo e decisione.
-> Vogliamo migliorare i servizi pubblici, e sappiamo che per farlo dobbiamo semplificare anche la relazione fra lo Stato e i soggetti privati, senza i quali alcuni servizi non potrebbero esistere.
-> Vogliamo essere inclusivi, aperti, permeabili e trasparenti: ascoltare tanto i nostri utenti, e imparare ogni giorno da chi è più bravo o ha più esperienza di noi. 
-> Vogliamo avere a bordo solo chi ci crede davvero, solo chi ha capito che per cambiare le cose serve sognare sì, ma anche rimboccarsi le maniche e iniziare a lavorare oggi, non domani. 
-> Perché fare innovazione nel pubblico è una sfida difficile, ma anche una enorme opportunità: l’opportunità di migliorare un poco, giorno per giorno, la vita delle persone. Tutte.
+<blockquote class="blockquote small">
+PagoPA S.p.A è una società pubblica, vigilata dalla Presidenza del Consiglio dei Ministri, che ha come obiettivo la diffusione di servizi pubblici digitali che vogliamo siano sempre più facili da usare e vicini ai bisogni dei cittadini.
+Siamo una società di Stato, ma abbiamo un animo da startup: la nostra missione è sviluppare, migliorare ed evolvere velocemente i servizi digitali, per permettere ai cittadini di accedere e utilizzare in modo semplice i servizi pubblici, a partire dai pagamenti digitali in favore delle Pubbliche Amministrazioni. 
 
-_Giuseppe Virgone, Amministratore unico di PagoPA S.p.A._
+Vogliamo agire in discontinuità con i tradizionali modi di fare innovazione nello Stato: essere giovani, agili, veloci e, perché no, anche coraggiosi. 
+Vogliamo proporre nuovi metodi di lavoro, nuove tecnologie, nuovi prodotti, partendo però sempre dai bisogni degli utenti e dalle opportunità del mercato.
+Vogliamo aprirci ai migliori professionisti del settore pubblico e di quello privato, imparare dalle imprese innovative, accogliere gli esempi pubblici di innovazione che troviamo su tutto il territorio nazionale, tenendo sempre un occhio rivolto anche al resto del mondo.
+Vogliamo far crescere il paese e la sua economia, aiutando la governance del digitale e non solo, mettendo i dati e il miglioramento continuo al centro di ogni processo e decisione.
+Vogliamo migliorare i servizi pubblici, e sappiamo che per farlo dobbiamo semplificare anche la relazione fra lo Stato e i soggetti privati, senza i quali alcuni servizi non potrebbero esistere.
+Vogliamo essere inclusivi, aperti, permeabili e trasparenti: ascoltare tanto i nostri utenti, e imparare ogni giorno da chi è più bravo o ha più esperienza di noi. 
+Vogliamo avere a bordo solo chi ci crede davvero, solo chi ha capito che per cambiare le cose serve sognare sì, ma anche rimboccarsi le maniche e iniziare a lavorare oggi, non domani. 
+Perché fare innovazione nel pubblico è una sfida difficile, ma anche una enorme opportunità: l’opportunità di migliorare un poco, giorno per giorno, la vita delle persone. Tutte.
+<footer class="blockquote-footer">Giuseppe Virgone, Amministratore unico di PagoPA S.p.A.</footer>
+</blockquote>

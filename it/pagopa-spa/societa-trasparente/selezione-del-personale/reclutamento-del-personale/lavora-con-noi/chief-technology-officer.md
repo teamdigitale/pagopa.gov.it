@@ -5,7 +5,8 @@ lang: it
 layout: job
 ref: chief-technology-officer
 child_of_ref: lavora-con-noi
-jazz_url: https://teamdigitale.applytojob.com/apply/Mwa8qGDrSw/Software-Developer
+jazz_url: 
+pec_cv: true
 iframeheight: 700
 is_new: true
 ---
