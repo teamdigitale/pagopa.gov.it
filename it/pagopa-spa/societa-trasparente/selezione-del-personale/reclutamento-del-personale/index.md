@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reclutamento del personale
-description: Lorem Ipsum TODO
+description: 
 lang: it
 ref: reclutamento-del-personale
 order: 25

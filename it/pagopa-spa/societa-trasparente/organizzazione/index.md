@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizzazione
-description: Lorem Ipsum TODO
+description: 
 lang: it
 ref: organizzazione
 order: 25

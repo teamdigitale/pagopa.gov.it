@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Selezione del personale
-description: Lorem Ipsum TODO
+description: 
 lang: it
 ref: selezione-del-personale
 order: 25

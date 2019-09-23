@@ -79,4 +79,7 @@ CollapseBtnSee:
 CollapseBtnHide:
   en: "Hide"
   it: "Nascondi"
-
+JobApply:
+  en: "Apply for this position"
+  it: "Invia il CV per questa posizione"
+  
